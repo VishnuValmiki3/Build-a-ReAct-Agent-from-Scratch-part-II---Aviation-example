@@ -191,7 +191,7 @@ No agent framework was used.
 
 
 
-## ⚠️ Important Note
+##  Important Note
 
 The flight information used in this project is **synthetic data created solely for demonstration purposes**.
 
